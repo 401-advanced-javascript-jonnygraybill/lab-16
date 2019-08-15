@@ -1,0 +1,27 @@
+{
+  "name": "events-lab",
+  "version": "1.0.0",
+  "description": "Events Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "app": "^0.1.0",
+    "events": "^3.0.0",
+    "fs": "0.0.1-security",
+    "jest": "^23.6.0",
+    "util": "^0.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jonnygraybill/lab-16.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jonnygraybill/lab-16/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jonnygraybill/lab-16#readme"
+}
